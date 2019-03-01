@@ -1,8 +1,8 @@
 {
-    "name": "fbo/composertest",
+    "name": "maxxcite/composertest",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-only",
-    "description": "A composer WordPress plugin test.",
+    "description": "Just a test.",
     "homepage": "https://github.com/maxxcite/TEST_composer",
     "authors": [
         {
