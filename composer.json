@@ -1,0 +1,25 @@
+{
+    "name": "fbo/composertest",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-only",
+    "description": "A composer WordPress plugin test.",
+    "homepage": "https://github.com/maxxcite/TEST_composer",
+    "authors": [
+        {
+            "name": "M. Kern",
+            "email": "m.kern@fbo.de",
+            "homepage": "https://github.com/maxxcite/TEST_composer"
+        }
+    ],
+    "keywords": [
+        "wordpress",
+        "openid"
+    ],
+    "support": {
+        "issues": "https://github.com/maxxcite/TEST_composer/issues"
+    },
+    "require": {
+        "php": ">=7.2.10",
+        "composer/installers": "~1.0"
+    }
+}
