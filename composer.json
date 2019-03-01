@@ -1,7 +1,7 @@
 {
     "name": "maxxcite/composertest",
     "type": "wordpress-plugin",
-    "license": "GPL-2.0-only",
+    "license": "",
     "description": "Just a test.",
     "homepage": "https://github.com/maxxcite/TEST_composer",
     "authors": [
@@ -12,14 +12,13 @@
         }
     ],
     "keywords": [
-        "wordpress",
-        "openid"
+        "wordpress"
     ],
     "support": {
         "issues": "https://github.com/maxxcite/TEST_composer/issues"
     },
     "require": {
-        "php": ">=7.2.10",
+        "php": ">=7.0.32",
         "composer/installers": "~1.0"
     }
 }
